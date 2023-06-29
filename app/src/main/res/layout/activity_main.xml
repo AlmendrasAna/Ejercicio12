@@ -7,9 +7,6 @@
     android:background="@drawable/ic_launcher_background"
     android:backgroundTint="#97000000"
     android:backgroundTintMode="src_over"
-    android:foreground="@drawable/baseline_fastfood_24"
-    android:foregroundGravity="center_vertical|center"
-    android:foregroundTint="#FFF7F7"
     tools:context=".MainActivity">
 
     <Button
